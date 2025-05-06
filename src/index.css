@@ -1,0 +1,18 @@
+.bt2 button{
+    margin-right: 3px;
+}
+.Logo img{
+    width: 200px;
+}
+.btt{
+    background-color: orange !important;
+    border: orangered !important;
+}
+.rowb{
+    padding-top: 10px;
+}
+.footer{
+    padding: 200px 0;
+    background-color: greenyellow;
+    text-align: center;
+}

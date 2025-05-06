@@ -1,14 +1,19 @@
-
-
+import { Banner } from "./components/Banner"
+import { Upsit } from "./components/Upsit"
+import { About } from "./components/About"
+import { Footer } from "./components/Footer"
 function App() {
 
 
   return (
+   
     <>
-    <h1>Hallo world</h1>
-
-
+    <Upsit/>
+    <Banner/>
+    <About/>
+    <Footer/>
     </>
+    
   )
 }
 
